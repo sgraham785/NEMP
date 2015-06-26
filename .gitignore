@@ -1,0 +1,6 @@
+boiler
+chrome_app
+client
+server/.env
+server/bin
+server/node_modules
